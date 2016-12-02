@@ -1,0 +1,2 @@
+const x = 'abc';
+x
